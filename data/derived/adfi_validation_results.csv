@@ -1,0 +1,6 @@
+unit,outcome,flag_set,N,K,n,k,base_rate,precision,recall,lift,p_hypergeometric
+school,act (primary),Level 1 union,459,381,168,145,0.830065,0.863095,0.380577,1.039792,0.095284
+school,act (primary),predated,459,381,117,105,0.830065,0.897436,0.275591,1.081163,0.014888
+school,act (primary),split_30d,459,381,66,53,0.830065,0.80303,0.139108,0.96743,0.793575
+school,act (primary),regime_mismatch,459,381,4,4,0.830065,1.0,0.010499,1.204724,0.473457
+school,act (primary),bunching_50k,459,381,66,56,0.830065,0.848485,0.146982,1.02219,0.410382

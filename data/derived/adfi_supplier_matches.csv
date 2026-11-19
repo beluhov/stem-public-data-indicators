@@ -1,0 +1,40 @@
+school_bulstat,vendor_id,vendor_eik,vendor_name,cited,cited_violation,reports_count,similarity,match_basis
+000013987,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000042483,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000042584,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,True,1,0.9091,fuzzy_quote
+000042679,67c1c938ed98c944e59e7d9c7fd24ce7ca455de0,202395053,ЕВРОКЛАС – КОНСУЛТ ЕООД,True,True,1,1.0,exact_name
+000042946,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,False,1,0.9091,fuzzy_quote
+000043578,87e112c77dfca25e4ea056c59327187e3b6f4149,206368790,Аксес Саунд ЕООД,True,True,1,1.0,exact_name
+000043642,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000047787,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000081439,9b75ebd4cb0c732da4652c5726a30fec8a8009e0,200790030,ДЕЗОН--БГ ЕООД,True,True,1,1.0,exact_name
+000082588,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000122980,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000123540,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,True,1,0.9565,fuzzy_quote
+000181547,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,True,1,0.9091,fuzzy_quote
+000182898,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000212100,c1f14f3c83c9f7462af5d666b7191b2528d8304f,201437250,ВТ-ТРЕЙД ЕООД,True,True,1,1.0,exact_name
+000227717,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000252147,455b37ae25c3fecdb4b1e8d4338fe64788a318fa,128049011,КАН УЧТЕХСПОРТ БЪЛГАРИЯ ООД,True,False,1,1.0,exact_name
+000281444,5eaa9d67ad91b3fe1b74cdef5431138baf9bbea3,175063752,КЕЙСИЕМ ЕООД,True,True,1,1.0,exact_name
+000311510,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,True,1,0.9091,fuzzy_quote
+000341724,67c1c938ed98c944e59e7d9c7fd24ce7ca455de0,202395053,ЕВРОКЛАС – КОНСУЛТ ЕООД,True,False,1,1.0,exact_name
+000342979,0f2a4d6e6e1de9561568ce975938ac96bf0c4215,204968092,МАИВ БИЛД ООД,True,False,1,1.0,exact_name
+000402052,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000402497,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,True,1,0.9091,fuzzy_quote
+000459574,67c1c938ed98c944e59e7d9c7fd24ce7ca455de0,202395053,ЕВРОКЛАС – КОНСУЛТ ЕООД,True,True,1,1.0,exact_name
+000498686,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,True,1,1.0,exact_name
+000521786,fbbe5b213edcf5992c9181354f3fb62365dc69e9,203902794,ДЖЕЙ ЕНД ДЖИ ГЛОБАЛ СЪРВИСЕС ЕООД,True,False,1,1.0,exact_name
+000521786,d06b528bf398cf124e2919afe10b8ad7ee24b606,206547220,ДЖЕЙ ЕНД ДЖИ ЕДЮКЕЙШЪН ЕООД,True,False,1,1.0,exact_name
+000668067,05d23317d6e2d7cec54603fbb37cafce7fc74a41,201055457,БАЛИСТИК СЕЛ ЕООД,True,False,1,1.0,exact_name
+000675485,5eaa9d67ad91b3fe1b74cdef5431138baf9bbea3,175063752,КЕЙСИЕМ ЕООД,True,False,1,1.0,exact_name
+000678143,36e3af2802e463bfefcdc22dcacce3cf25369015,203791792,Алегро Пловдив ООД,True,True,1,1.0,exact_name
+000802299,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000802395,05d23317d6e2d7cec54603fbb37cafce7fc74a41,201055457,БАЛИСТИК СЕЛ ЕООД,True,True,1,1.0,exact_name
+000841900,5fa1470d1f301c4b3b87879c0b86f6c13702aa98,131468980,",,А1 България“ ЕАД",True,True,1,0.9091,fuzzy_quote
+000893217,aae4d1abf94c8983d19593e749e866e5356146ab,000885099,Кооперация Панда,True,True,1,1.0,exact_name
+000922947,5fb561eb8d840c4dacb5cb6efd6e85e325893099,204660454,Юнион Интерактив ООД,True,False,1,1.0,exact_name
+103007620,862fa24cc2e10c6c51417c3c232bf39a81948959,103643853,ФЛАЙ СИСТЕМ ООД,True,True,1,1.0,exact_name
+103007620,362360936f8a6e382760840c9da39100b1e790a1,175342714,ЦЕНТЪР ЗА ТВОРЧЕСКО ОБУЧЕНИЕ ООД,True,True,1,1.0,exact_name
+122053405,0f2a4d6e6e1de9561568ce975938ac96bf0c4215,204968092,МАИВ БИЛД ООД,True,True,1,1.0,exact_name
+829095214,67c1c938ed98c944e59e7d9c7fd24ce7ca455de0,202395053,ЕВРОКЛАС – КОНСУЛТ ЕООД,True,True,1,1.0,exact_name
