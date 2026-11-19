@@ -8,7 +8,7 @@ data/derived/adfi_matches.csv;203790;684cf531ea7f27378782942b7609cdd1bf7f84ee244
 data/derived/adfi_supplier_matches.csv;4963;57686c47c670e5f1493baa54a3b10181c613b919bfbcae73785497633683fbba;Relational Database Preparation (Section 1);2026-11-18
 data/derived/adfi_validation_results.csv;535;13459b71267b2c1e324df231aea344469df41f526f929e2aa34ea2d15bb6fb39;Relational Database Preparation (Section 1);2026-11-18
 data/derived/concepts_mapping.csv;1503;801cdab76ac5d50a02249df0ee70be2d30d6767a99528a23697e8d43e134d083;Normative Concept Mapping and Bridge to Element 1 (ADFI Classifier) (Section 3);2026-11-18
-data/derived/conclusions_summary.csv;13012;5345963d07278418c723a9a0e4c779ba6b776c9aa2aec205657974108f5a72c3;Currency and VAT Normalization and Verification of Structural Invariants (Section 2);2026-11-18
+data/derived/conclusions_summary.csv;17064;98897b68b96c011860beb0b6eb52cb2367332ecdb7dc2b3b70f163e3332d7a1d;Currency and VAT Normalization and Verification of Structural Invariants (Section 2);2026-11-18
 data/derived/contracts.csv;4283533;bf353cc2dc16fd63996593b29754f722ada62b35868afc7480bf9863615394d7;Relational Database Preparation (Section 1);2026-11-18
 data/derived/forensic_risk_flags.csv;2030089;0a20f1681e1045babc4b53f441849f20d25e1c976697ee4962308b5430bf6b7c;Relational Database Preparation (Section 1);2026-11-18
 data/derived/normalized_totals.csv;264;0ff214f544fc2490c3f721d0bde60a6f82c059a03726f1a6253076fd09343b1e;Relational Database Preparation (Section 1);2026-11-18
@@ -25,6 +25,7 @@ fig/F2_1_values_around_thresholds.png;308184;460008f746046e1094bcc8bd245d8fbc26a
 fig/F2_2_indicator_share_by_region.png;484474;6790c0f777bc1ba9e1aaec10d5aeb909d65261d1347fef6be9959d731b8d7bea;Where the acts occur: 28 regions and the profile of Blagoevgrad (Section 6);2026-11-18
 fig/F2_3_institutional_profile.png;630301;cc411a31fb1e516441821fe4ed31cd86867ca80d1fea7a087969c8015dd97584;Who signs the contracts: municipal and state schools, school types, and one supplier per municipality (Section 6.3);2026-11-18
 fig/F2_4_adfi_validation.png;536948;4538d0c82361bebc29d26b4f5843f9d1daf80ae82145b5fac6fd6eabad590722;What ADFI recorded at the schools with each act, and the suppliers it names (Section 7);2026-11-18
+fig/F2_5_concentration_steering.png;686792;000643b74df920e493e6266a7eef8ada7409e46d393975c795f3a64fdfdf5f37;Concentration of the programme by supplier and steering at the level of the region and the country (Section 8);2026-11-19
 fig/F2_H2_systemic_failures.png;189938;7584c9e8c51325471a90f647fdf20ad5f2f15a6384d167428029781c20647ac3;Level 1 and H2: public data against the ADFI findings in Element 1 (Section 4.5);2026-11-18
 LICENSE.txt;1093;fcfb9deb0e8bcac5f9aa8a268ae336003e49ff97789bf998895fe24e327f7b17;MIT license;2026-11-18
 README.md;110;6df510262e2c4a607260d43ce3b107375863ae922eb5251fdba4b27c3349653f;Repository documentation;2026-11-18

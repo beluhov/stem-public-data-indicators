@@ -151,3 +151,42 @@ Section 7;adfi_validation;Level C named STEM schools;37;;;none;none
 Section 7;adfi_validation;Level C pairs in named schools;102;;;none;none
 Section 7;adfi_validation;Level C cited with violation pairs;36;;;none;none
 Section 7;adfi_validation;Level C Level 1 violation lift;1.526;;;Logit cluster OR;"2.20 (p_hyp=0.1187; p_perm=0.1973; p_logit=0.4146)"
+Section 8;concentration;unique supplier vendor_id count;1754;;;none;none
+Section 8;concentration;unique supplier EIK count;1732;;;none;none
+Section 8;concentration;Top-1 supplier name;Кооперация Панда;;;none;none
+Section 8;concentration;Top-1 supplier value share C1 (%);14.61;;;entity;Кооперация Панда
+Section 8;concentration;Top-5 suppliers value share C5 (%);33.60;;;none;none
+Section 8;concentration;Top-10 suppliers value share C10 (%);44.74;;;none;none
+Section 8;concentration;Supplier value HHI;358.6;;;none;none
+Section 8;concentration_top2;Кооперация Панда (000885099) value EUR incl VAT / excl VAT;42165216.46;;;excl VAT;35137680.38
+Section 8;concentration_top2;Кооперация Панда (000885099) paid / unpaid EUR incl VAT;39077058.93;;;unpaid;3088157.53
+Section 8;concentration_top2;Кооперация Панда (000885099) contracts / schools / subcontractors;1254 / 581 / 0;;;none;none
+Section 8;concentration_top2;Кооперация Панда (000885099) contracts below threshold / predated / split_30d;758 / 4 / 68;;;none;none
+Section 8;concentration_top2;,,А1 България“ ЕАД (131468980) value EUR incl VAT / excl VAT;19129057.25;;;excl VAT;15940881.04
+Section 8;concentration_top2;,,А1 България“ ЕАД (131468980) paid / unpaid EUR incl VAT;17650923.02;;;unpaid;1478134.23
+Section 8;concentration_top2;,,А1 България“ ЕАД (131468980) contracts / schools / subcontractors;751 / 298 / 0;;;none;none
+Section 8;concentration_top2;,,А1 България“ ЕАД (131468980) contracts below threshold / predated / split_30d;556 / 368 / 119;;;none;none
+Section 8;steering_levels_2_3;Top-2 leaders combined contracts;2005;;;none;none
+Section 8;steering_levels_2_3;Top-2 leaders combined value EUR incl VAT;61294273.71;;;none;none
+Section 8;steering_levels_2_3;Top-2 leaders combined value share (%);21.24;;;none;none
+Section 8;steering_levels_2_3;Second-largest supplier Level 1 contracts;410;;;none;none
+Section 8;steering_levels_2_3;BiCM valid links (q<=0.01);80;;;none;none
+Section 8;steering_levels_2_3;Backbone nodes;90;;;none;none
+Section 8;steering_levels_2_3;Louvain supplier groups (size>=3);9;;;none;none
+Section 8;steering_levels_2_3;10,000 networks unique count;10000;;;swap MC;burn=43374, thin=7229
+Section 8;steering_levels_2_3;Oblast excess vendor-oblast cells;184;;;none;none
+Section 8;steering_levels_2_3;Oblast excess school links count;1693;;;none;none
+Section 8;steering_levels_2_3;Country top-2 suppliers observed shared schools;46;;;BiCM exp;"91.86; p(MC <= obs)=0.0001"
+Section 8;steering_levels_2_3;Country top-2 suppliers 10k MC expected mean;74.67;61.10;88.25;10,000 networks;p=1.0000
+Section 8;steering_levels_2_3;Highest group Level 1 rate (%);23.33;;;group;G04
+Section 8;steering_levels_2_3;Lowest group Level 1 rate (%);0.00;;;group;G07
+Section 8;steering_groups;G01 Level 1 rate (%) vs out of groups;7.85;;;Fisher exact vs out of groups;"p=0.0000; Ordinary"
+Section 8;steering_groups;G02 Level 1 rate (%) vs out of groups;18.18;;;Fisher exact vs out of groups;"p=0.3732; Robust"
+Section 8;steering_groups;G03 Level 1 rate (%) vs out of groups;15.29;;;Fisher exact vs out of groups;"p=0.6313; Ordinary"
+Section 8;steering_groups;G04 Level 1 rate (%) vs out of groups;23.33;;;Fisher exact vs out of groups;"p=0.1131; Suspicious"
+Section 8;steering_groups;G05 Level 1 rate (%) vs out of groups;6.95;;;Fisher exact vs out of groups;"p=0.0001; Robust"
+Section 8;steering_groups;G06 Level 1 rate (%) vs out of groups;0.00;;;Fisher exact vs out of groups;"p=0.0000; Ordinary"
+Section 8;steering_groups;G07 Level 1 rate (%) vs out of groups;0.00;;;Fisher exact vs out of groups;"p=0.0000; Robust"
+Section 8;steering_groups;G08 Level 1 rate (%) vs out of groups;9.68;;;Fisher exact vs out of groups;"p=0.4591; Suspicious"
+Section 8;steering_groups;G09 Level 1 rate (%) vs out of groups;22.64;;;Fisher exact vs out of groups;"p=0.0097; Ordinary"
+Section 8;steering_groups;Out of groups Level 1 rate (%);13.47;;;none;none
