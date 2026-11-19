@@ -109,3 +109,26 @@ Section 6;regional;Blagoevgrad Благоевград C1 supplier share (%);26.9
 Section 6;regional;Blagoevgrad ADFI audited schools;20;;;none;none
 Section 6;regional;Blagoevgrad ADFI reports count;22;;;none;none
 Section 6;regional;Blagoevgrad ADFI audited with Level 1;8;;;none;none
+Section 6.3;institutional;Other (<30) grouped schools;53;;;none;none
+Section 6.3;institutional;Other (<30) Level 1 share (%);33.96;;;none;none
+Section 6.3;institutional;Primary (НУ, 1-4) Level 1 share (%);32.48;;;Wilson 95%;"[24.67%; 41.40%]"
+Section 6.3;institutional;Basic (ОУ, 1-7) Level 1 share (%);32.42;;;Wilson 95%;"[29.67%; 35.30%]"
+Section 6.3;institutional;United (ОбУ, 1-10) Level 1 share (%);31.51;;;Wilson 95%;"[22.00%; 42.86%]"
+Section 6.3;institutional;Secondary (СУ, 1-12) Level 1 share (%);24.44;;;Wilson 95%;"[20.68%; 28.63%]"
+Section 6.3;institutional;Vocational High School (ПрофГ) Level 1 share (%);24.41;;;Wilson 95%;"[20.15%; 29.25%]"
+Section 6.3;institutional;Profiled High School (ПГ) Level 1 share (%);18.28;;;Wilson 95%;"[11.74%; 27.34%]"
+Section 6.3;institutional;Centre for Special Educational Support (ЦСОП) Level 1 share (%);16.67;;;Wilson 95%;"[8.32%; 30.60%]"
+Section 6.3;institutional;Municipal Level 1 share (%);29.61;;;Wilson 95%;"[27.61%; 31.68%]"
+Section 6.3;institutional;State Level 1 share (%);22.76;;;Wilson 95%;"[18.31%; 27.92%]"
+Section 6.3;institutional;Municipal vs State chi2 p-value (country);0.0162;;;10000 permutations;
+Section 6.3;institutional;Municipal vs State chi2 p-value (within region);0.0195;;;10000 permutations within oblast;
+Section 6.3;institutional;School type chi2 p-value (country);0.0010;;;10000 permutations;
+Section 6.3;institutional;School type chi2 p-value (within region);0.0010;;;10000 permutations within oblast;
+Section 6.3;steering_level1;LOO multi-school sample size;2119;;;none;none
+Section 6.3;steering_level1;Municipal schools in LOO sample;1829;;;none;none
+Section 6.3;steering_level1;State schools in LOO sample;290;;;none;none
+Section 6.3;steering_level1;Municipal mean LOO alignment s_i;0.2103;;;none;none
+Section 6.3;steering_level1;State mean LOO alignment s_i;0.1207;;;none;none
+Section 6.3;steering_level1;Municipal - State alignment gap;0.0896;;;10,000 perm oblast x size;p=0.0001
+Section 6.3;steering_level1;Municipal alignment p-value (oblast x size);0.0001;;;none;none
+Section 6.3;steering_level1;Municipal LOO >= 50% Level 1 rate (%);27.73;;;vs <50%;30.38%
