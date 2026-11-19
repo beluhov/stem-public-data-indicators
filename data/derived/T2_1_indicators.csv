@@ -1,0 +1,5 @@
+indicator,label,n_contracts,n_projects,n_sets_windows,n_schools,value_eur_incl_vat,value_eur_excl_vat,paid_eur_incl_vat,unpaid_eur_incl_vat,share_contracts,share_schools,ci95_low,ci95_high,in_H2_rule,ci95_lower_over_5pct,notes
+predated,Contract signed before project start,654,380,,380,11171740.45,9309783.71,10536305.15,635435.3,0.058771,0.171017,0.155933,0.187237,True,True,delta_t_days < 0
+split_30d,30-day sub-threshold order splitting,830,300,314,300,13795099.79,11495916.49,12786126.59,1008973.21,0.074587,0.135014,0.121433,0.149854,True,True,30-day sub-threshold windows >= T; includes 638 same-day contracts in 241 schools
+regime_mismatch,"Regime 1 award in [30k, 50k) BGN excl. VAT",19,17,,17,457652.93,381377.44,403706.02,53946.9,0.001707,0.007651,0.004782,0.012219,True,False,Statutory threshold in force <= 2023-12-31
+regime_mismatch_incl_50k,"Regime 1 awards >= 30,000 BGN excl. VAT (total)",24,22,,22,636582.34,530485.29,583268.91,53313.44,0.002157,0.009901,0.006548,0.014946,False,,"Includes 5 Regime 1 contracts >= 50,000 BGN excl. VAT"
