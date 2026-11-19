@@ -1,0 +1,21 @@
+part;question;measure;value;interval_low;interval_high;interval_method;decision
+Section 2;reconciliation;projects in BG-RRP-1.015;2228;;;none;none
+Section 2;reconciliation;unique beneficiary schools;2227;;;none;none
+Section 2;reconciliation;projects with contract;2223;;;none;none
+Section 2;reconciliation;schools with contract;2222;;;none;none
+Section 2;reconciliation;projects without contract;5;;;none;none
+Section 2;reconciliation;contracts count;11128;;;none;none
+Section 2;reconciliation;unique contract_id;10674;;;none;none
+Section 2;reconciliation;distinct non-empty vendor_id;1754;;;none;none
+Section 2;reconciliation;distinct vendor_eik;1732;;;none;none
+Section 2;reconciliation;contracts without vendor_eik;46;;;none;none
+Section 2;reconciliation;total contracted EUR incl VAT;288593366.12;;;none;none
+Section 2;reconciliation;total contracted EUR excl VAT;240494471.77;;;none;none
+Section 2;reconciliation;national VAT co-financing EUR;48098894.35;;;none;none
+Section 2;reconciliation;total disbursed EUR incl VAT;260070052.15;;;none;none
+Section 2;reconciliation;total unpaid remainder EUR incl VAT;28523313.97;;;none;none
+Section 2;reconciliation;unpaid share of contracted value;0.098836;;;none;none
+Section 2;reconciliation;contracts with default currency;2221;;;none;none
+Section 2;reconciliation;contracts with dominant VAT assumption;5272;;;none;none
+Section 2;reconciliation;assumed VAT raw amount;161179867.82;;;none;none
+Section 2;reconciliation;share of classified projects with incl VAT;0.940356;;;none;none

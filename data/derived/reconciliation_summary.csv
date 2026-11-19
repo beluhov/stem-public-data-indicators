@@ -1,0 +1,13 @@
+invariant,computed_value,notes
+Projects in procedure BG-RRP-1.015,2228,ISUN openData.xml
+Unique beneficiary schools (register matched),2227,One school holds two projects (100% matched)
+Projects with at least one contract,2223,"Across 2,222 schools; 5 projects have 0 contracts"
+Contract rows (key: contract_row),11128,454 duplicate contract_id strings
+Identified suppliers (vendor_id / EIK),1754 / 1732,46 contracts lack EIK; 1 lacks vendor_id
+Matched by Bulstat / name+settlement,2075 / 153,100% matched against raw MoES register
+Contracted value incl. VAT (EUR),"288,593,366.12",Control basis under Art. 13(3)(3) FMCPSA
+Contracted value excl. VAT (EUR),"240,494,471.77",EU RRF grant basis; Art. 20 PPA threshold basis
+National VAT co-financing (EUR),"48,098,894.35",20% VAT component
+Disbursed payments incl. VAT (EUR),"260,070,052.15",90.12% of contracted total
+Unpaid remainder incl. VAT (EUR),"28,523,313.97",9.88% open to ex-ante expenditure control
+Contracts with assumed incl_vat regime,5272,"Raw sum 161,179,867.82; 94.0% of classified projects are incl_vat"
