@@ -90,3 +90,22 @@ Section 5;bunching_50k;bunching_50k: specs significant at p<=0.05 (of 14);10;;;n
 Section 5;bunching_50k;bunching_50k: schools;274;;;none;none
 Section 5;bunching_50k;bunching_50k: share of schools;0.123312;0.110288;0.137637;Wilson;indication
 Section 5;bunching_50k;bunching_50k: value EUR incl VAT;8844611.07;;;none;none
+Section 6;regional;regional heterogeneity p-value (chi2 across 28 oblasts);0.00000093;;;chi2;heterogeneous
+Section 6;regional;highest Level 1 oblast name;Перник;;;none;none
+Section 6;regional;highest Level 1 oblast share (%);56.10;41.04;70.11;Wilson 95%;Перник
+Section 6;regional;lowest Level 1 oblast name;Ямбол;;;none;none
+Section 6;regional;lowest Level 1 oblast share (%);11.36;4.95;23.98;Wilson 95%;Ямбол
+Section 6;regional;Blagoevgrad rank (of 28);8;;;none;none
+Section 6;regional;Blagoevgrad schools count;120;;;none;none
+Section 6;regional;Blagoevgrad Level 1 schools count;43;;;none;none
+Section 6;regional;Blagoevgrad Level 1 schools (%);35.83;27.82;44.73;Wilson 95%;43/120
+Section 6;regional;Blagoevgrad total contracts count;535;;;none;none
+Section 6;regional;Blagoevgrad total contracted EUR incl VAT;15205734.22;;;none;none
+Section 6;regional;Blagoevgrad Level 1 contracts count;108;;;none;none
+Section 6;regional;Blagoevgrad Level 1 contracted EUR incl VAT;1634844.80;;;none;none
+Section 6;regional;Blagoevgrad Белица C1 supplier share (%);34.42;;;top_supplier;Кооперация Панда
+Section 6;regional;Blagoevgrad Банско C1 supplier share (%);22.99;;;top_supplier;СТЕМО ЕООД
+Section 6;regional;Blagoevgrad Благоевград C1 supplier share (%);26.97;;;top_supplier;АЙ ОФИС ООД
+Section 6;regional;Blagoevgrad ADFI audited schools;20;;;none;none
+Section 6;regional;Blagoevgrad ADFI reports count;22;;;none;none
+Section 6;regional;Blagoevgrad ADFI audited with Level 1;8;;;none;none
