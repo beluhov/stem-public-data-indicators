@@ -190,3 +190,10 @@ Section 8;steering_groups;G07 Level 1 rate (%) vs out of groups;0.00;;;Fisher ex
 Section 8;steering_groups;G08 Level 1 rate (%) vs out of groups;9.68;;;Fisher exact vs out of groups;"p=0.4591; Suspicious"
 Section 8;steering_groups;G09 Level 1 rate (%) vs out of groups;22.64;;;Fisher exact vs out of groups;"p=0.0097; Ordinary"
 Section 8;steering_groups;Out of groups Level 1 rate (%);13.47;;;none;none
+Section 3;e1_reliability;E1 STEM violation rows;1195;;;none;none
+Section 3;e1_reliability;E1 STEM violation rows with class in ADFI own words;1130;;;none;none
+Section 3;e1_reliability;E1 STEM violation share with class in ADFI own words;0.9456;;;none;none
+Section 3;e1_reliability;E1 STEM violation rows in classes of the three acts;61;;;none;"1.01; 1.02; 10.01; 10.02; 7.03"
+Section 3;e1_reliability;E1 STEM violation rows in classes of the three acts with class in ADFI own words;50;;;none;none
+Section 3;e1_reliability;E1 STEM violation rows in class of regime_mismatch;10;;;none;1.02
+Section 3;e1_reliability;E1 STEM violation rows in class of regime_mismatch with class in ADFI own words;0;;;none;none
