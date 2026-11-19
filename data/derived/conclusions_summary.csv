@@ -79,3 +79,14 @@ Section 4.5;level1_union;level1_union: paid EUR incl VAT;22194838.94;;;none;none
 Section 4.5;level1_union;level1_union: unpaid EUR incl VAT;1497005.47;;;none;none
 Section 4.5;hypothesis_H2;indicators with Wilson lower CI > 5%;2;;;none;confirmed
 Section 4.5;hypothesis_H2;indicators with Wilson lower CI > 5% (excl date anomalies);2;;;none;confirmed
+Section 5;bunching_50k;bunching_50k: observed contracts in [47k, 50k);295;;;none;none
+Section 5;bunching_50k;bunching_50k: max contract value below 50k BGN;49999.91;;;none;none
+Section 5;bunching_50k;bunching_50k: counterfactual expected contracts;184.1;;;none;none
+Section 5;bunching_50k;bunching_50k: excess contracts;110.9;;;none;none
+Section 5;bunching_50k;bunching_50k: percent excess;60.20;;;none;none
+Section 5;bunching_50k;bunching_50k: Poisson QML p-value;0.0341;;;HC1;indication
+Section 5;bunching_50k;bunching_50k: BH-FDR q-value across 14 specs;0.0615;;;BH-FDR;indication
+Section 5;bunching_50k;bunching_50k: specs significant at p<=0.05 (of 14);10;;;none;none
+Section 5;bunching_50k;bunching_50k: schools;274;;;none;none
+Section 5;bunching_50k;bunching_50k: share of schools;0.123312;0.110288;0.137637;Wilson;indication
+Section 5;bunching_50k;bunching_50k: value EUR incl VAT;8844611.07;;;none;none
