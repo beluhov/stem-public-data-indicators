@@ -19,9 +19,9 @@ Section 2;reconciliation;contracts with default currency;2221;;;none;none
 Section 2;reconciliation;contracts with dominant VAT assumption;5272;;;none;none
 Section 2;reconciliation;assumed VAT raw amount;161179867.82;;;none;none
 Section 2;reconciliation;share of classified projects with incl VAT;0.940356;;;none;none
-Section 3;e1_bridge;E1 reports in register;560;;;none;none
-Section 3;e1_bridge;E1 classified rows (violation / no violation);1824 (1203 / 621);;;none;none
-Section 3;e1_bridge;E1 documentation sections 2-4 violation share;0.750623;;;none;none
+Section 3;e1_bridge;E1 reports on STEM schools;558;;;none;none
+Section 3;e1_bridge;E1 classified rows on STEM schools (violation / no violation);1816 (1195 / 621);;;none;none
+Section 3;e1_bridge;E1 documentation sections 2-4 violation share;0.755649;;;none;none
 Section 3;e1_bridge;contracts under Regime 1 (up to 31.12.2023);73;;;none;none
 Section 3;e1_bridge;contracts under Regime 2 (from 01.01.2024);11055;;;none;none
 Section 4;indicator_predated;predated: contracts;654;;;none;none
@@ -67,3 +67,15 @@ Section 4;indicator_split_30d;comparative SplittingDetector 30d: contracts;1332;
 Section 4;indicator_split_30d;comparative SplittingDetector 30d: schools;726;;;none;none
 Section 4;anomalies;anomalous dates total (pre-2023 / post-extraction);8 (3 / 5);;;none;none
 Section 4;anomalies;predated schools excluding date anomalies;379;;;none;none
+Section 4.5;level1_union;level1_union: contracts;1403;;;none;none
+Section 4.5;level1_union;level1_union: multi-indicator contracts;100;;;none;none
+Section 4.5;level1_union;level1_union: schools;638;;;none;none
+Section 4.5;level1_union;level1_union: share of contracts;0.126078;;;none;none
+Section 4.5;level1_union;level1_union: share of schools;0.287129;0.268697;0.306295;Wilson;none
+Section 4.5;level1_union;level1_union: value EUR incl VAT;23691844.42;;;none;none
+Section 4.5;level1_union;level1_union: value EUR excl VAT;19743203.68;;;none;none
+Section 4.5;level1_union;level1_union: programme value share;0.082094;;;none;none
+Section 4.5;level1_union;level1_union: paid EUR incl VAT;22194838.94;;;none;none
+Section 4.5;level1_union;level1_union: unpaid EUR incl VAT;1497005.47;;;none;none
+Section 4.5;hypothesis_H2;indicators with Wilson lower CI > 5%;2;;;none;confirmed
+Section 4.5;hypothesis_H2;indicators with Wilson lower CI > 5% (excl date anomalies);2;;;none;confirmed
