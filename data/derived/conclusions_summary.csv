@@ -19,3 +19,8 @@ Section 2;reconciliation;contracts with default currency;2221;;;none;none
 Section 2;reconciliation;contracts with dominant VAT assumption;5272;;;none;none
 Section 2;reconciliation;assumed VAT raw amount;161179867.82;;;none;none
 Section 2;reconciliation;share of classified projects with incl VAT;0.940356;;;none;none
+Section 3;e1_bridge;E1 reports in register;560;;;none;none
+Section 3;e1_bridge;E1 classified rows (violation / no violation);1824 (1203 / 621);;;none;none
+Section 3;e1_bridge;E1 documentation sections 2-4 violation share;0.750623;;;none;none
+Section 3;e1_bridge;contracts under Regime 1 (up to 31.12.2023);73;;;none;none
+Section 3;e1_bridge;contracts under Regime 2 (from 01.01.2024);11055;;;none;none

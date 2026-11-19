@@ -7,7 +7,8 @@ data/classifier_classes.csv;14491;04e1bd91a696a241c544ca6c4c2bc6db2fe21d2a71a84f
 data/derived/adfi_matches.csv;203790;684cf531ea7f27378782942b7609cdd1bf7f84ee244bb172e2db6e01207b07f9;Relational Database Preparation (Section 1);2026-11-18
 data/derived/adfi_supplier_matches.csv;4963;57686c47c670e5f1493baa54a3b10181c613b919bfbcae73785497633683fbba;Relational Database Preparation (Section 1);2026-11-18
 data/derived/adfi_validation_results.csv;535;13459b71267b2c1e324df231aea344469df41f526f929e2aa34ea2d15bb6fb39;Relational Database Preparation (Section 1);2026-11-18
-data/derived/conclusions_summary.csv;1532;da4c903f6ec6cf82ff183883dbb0ca62fa4d54f28ed917ebf46cc86aad85a6ed;Currency and VAT Normalization and Verification of Structural Invariants (Section 2);2026-11-18
+data/derived/concepts_mapping.csv;1504;a7a8bc45dcd68163a569de42ebaf68c0939d9c90abea956daeb8f44e84fb7cfc;Normative Concept Mapping and Bridge to Element 1 (ADFI Classifier) (Section 3);2026-11-18
+data/derived/conclusions_summary.csv;1934;5a8d4038403952da4d293e119184077f40ac32adf45c5205f76977ac571935e4;Currency and VAT Normalization and Verification of Structural Invariants (Section 2);2026-11-18
 data/derived/contracts.csv;4283533;bf353cc2dc16fd63996593b29754f722ada62b35868afc7480bf9863615394d7;Relational Database Preparation (Section 1);2026-11-18
 data/derived/forensic_risk_flags.csv;2030089;0a20f1681e1045babc4b53f441849f20d25e1c976697ee4962308b5430bf6b7c;Relational Database Preparation (Section 1);2026-11-18
 data/derived/normalized_totals.csv;264;0ff214f544fc2490c3f721d0bde60a6f82c059a03726f1a6253076fd09343b1e;Relational Database Preparation (Section 1);2026-11-18
