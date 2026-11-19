@@ -132,3 +132,22 @@ Section 6.3;steering_level1;State mean LOO alignment s_i;0.1207;;;none;none
 Section 6.3;steering_level1;Municipal - State alignment gap;0.0896;;;10,000 perm oblast x size;p=0.0001
 Section 6.3;steering_level1;Municipal alignment p-value (oblast x size);0.0001;;;none;none
 Section 6.3;steering_level1;Municipal LOO >= 50% Level 1 rate (%);27.73;;;vs <50%;30.38%
+Section 7;adfi_validation;ADFI reports matched to STEM;558;;;none;none
+Section 7;adfi_validation;ADFI audited STEM schools (meta);499;;;none;none
+Section 7;adfi_validation;ADFI classified STEM schools (E1);459;;;none;none
+Section 7;adfi_validation;ADFI violation-with-act schools;381;;;none;none
+Section 7;adfi_validation;ADFI act base rate (%);83.01;;;max_lift;1.205
+Section 7;adfi_validation;ADFI base-rate ceiling lift;1.205;;;none;none
+Section 7;adfi_validation;Level 1 flagged audited STEM schools;180;;;none;none
+Section 7;adfi_validation;Level 1 flagged unaudited STEM schools;458;;;none;none
+Section 7;adfi_validation;Level 1 audited schools with a violation in the classes of the act;11;;;none;none
+Section 7;adfi_validation;Level 1 audited schools with only no violation in the classes of the act;6;;;none;none
+Section 7;adfi_validation;Level 1 audited schools with no finding in the classes of the act;163;;;none;none
+Section 7;adfi_validation;Level 1 ADFI act lift;1.0398;;;hypergeom;"p=0.0953; p_perm=0.0924"
+Section 7;adfi_validation;Level 1 ADFI selection OR;1.558;;;Fisher exact;p=0.0001
+Section 7;adfi_validation;Predated ADFI act lift;1.0812;;;hypergeom;"p=0.0149; p_perm=0.0157"
+Section 7;adfi_validation;Predated ADFI selection OR;1.895;;;Fisher exact;p=0.0000
+Section 7;adfi_validation;Level C named STEM schools;37;;;none;none
+Section 7;adfi_validation;Level C pairs in named schools;102;;;none;none
+Section 7;adfi_validation;Level C cited with violation pairs;36;;;none;none
+Section 7;adfi_validation;Level C Level 1 violation lift;1.526;;;Logit cluster OR;"2.20 (p_hyp=0.1187; p_perm=0.1973; p_logit=0.4146)"
